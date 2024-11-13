@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CHANEL: TIMELESS ELEGANCE</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: floralwhite;
+      margin: 20px;
+      padding: 30px;
+    }
+
+    header {
+      background-color: floralwhite;
+      padding: 30px;
+      text-align: center;
+    }
+
+    h1 {
+      margin: 20px;
+      color: black; /*Black color*/
+      font-size: 5em;
+    }
+
+    main {
+      padding: 50px;
+    }
+
+    .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .product-card {
+      width: 350px;
+      margin: 20px;
+      padding: 30px;
+      background-color: navajowhite;
+      border-radius: 50px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0, 0, 0, 0.1);
+      text-align: center;
+    }
+
+    .product-card img {
+      width: 100%;
+      height: 250px;
+      object-fit: cover;
+      border-radius: 50px;
+      text-align: center;
+    }
+
+    .product-card h4 {
+      margin-top: 20px;
+      color: black; /* Black color */
+      text-align: center;
+    }
+
+    footer {
+      background-color: black; /* Black color */
+      color: white;
+      padding: 50px;
+      text-align: center;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      align-items: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>CHANEL</h1>
+  </header>
+
+  <main>
+    <div class="container">
+      <div class="product-card">
+        <img src="/putimage.html/61-3.jpg" alt="">
+      </div> 
+        
+    <h2>CHANEL:TIMELESS ELEGANCE</h2>
+    <p>CHANEL embodies the essence of Parisian chic. Chanel is known for its innovative and timeless designs, which have set the standard for luxury fashion and accessories.</p>
+    
+    <h3>SOME CHANEL ICONIC PRODUCTS</h3>
+    <p>Chanel is known for many iconic products that have become synonymous with the brand’s timeless elegance and sophistication. Here are some of the most iconic Chanel products and their features:</p>
+
+    <div class="container">
+      <div class="product-card">
+        <img src="/putimage.html/chanel-No-5-Perfume.jpg" alt="">
+        <h4>CHANEL N°5</h4>
+        <p>This iconic fragrance was created by Coco Chanel herself in 1921, and it remains one of the most famous perfumes in the world. The scent is a combination of floral and woody notes, with jasmine, rose, and ylang-ylang at its heart. The sleek, minimalist bottle is also instantly recognizable, with its simple lines and elegant logo.</p>
+      </div>
+
+      <div class="product-card">
+        <img src="/chanel-bag.jpg" alt="">
+        <h5>CHANEL HANDBAG</h5>
+        <p>The 2.55 is one of the most famous handbags in the world, and it was also designed by Coco Chanel. The bag features a quilted leather exterior, a chain strap, and the signature double C logo. It was designed to be both elegant and practical, with a spacious interior and a front flap that could be easily opened with one hand.</p>
+      </div>
+        
+        <div class="product-card">
+        <img src="/putimage.html/Chanel-Rouge-Allure-lipstick.jpg" alt="">
+        <h6>CHANEL ROUGE ALLURE LIPSTICK</h6>
+        <p>This luxurious lipstick is another iconic Chanel product that has become a favorite of many beauty enthusiasts. The lipstick features a creamy, hydrating formula that is long-lasting and comfortable to wear. The sleek, black and gold packaging is also instantly recognizable, with the Chanel logo on the cap.</p>
+      </div>
+    </div>
+  </main>
+</body>
+</html>
